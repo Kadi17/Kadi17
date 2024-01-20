@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://paperswithcode.com/paper/cogagent-a-visual-language-model-for-gui
+https://github.com/thudm/cogvlm
 <!--
 **Kadi17/Kadi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
